@@ -1,5 +1,5 @@
 {
-  "name": "hono",
+  "name": "hona-service",
   "type": "module",
   "dependencies": {
     "hono": "^4.12.8"
